@@ -10,3 +10,5 @@ group :development do
   gem 'rspec',          '~> 2.4'
   gem 'yard',           '~> 0.8'
 end
+
+gem 'simplecov', :require => false, :group => :test

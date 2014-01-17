@@ -6,3 +6,4 @@ spec/bundle/*/Gemfile.lock
 spec/bundle/*/.bundle/
 vendor/bundle/
 tmp/
+coverage/
