@@ -117,6 +117,10 @@ Update the [ruby-advisory-db] that `bundle-audit` uses:
 
     $ gem install bundler-audit
 
+## To Contribute
+
+    TBD
+
 ## License
 
 Copyright (c) 2013 Hal Brodigan (postmodern.mod3 at gmail.com)
